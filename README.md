@@ -60,5 +60,5 @@ zeno/
 
 🔄 Optional (but useful):
 npm install react-speech-recognition
-![Zena Output Screenshot](./src/assets/zena-output.png)
+![Zena Output Screenshot](zena-output.png)
 
