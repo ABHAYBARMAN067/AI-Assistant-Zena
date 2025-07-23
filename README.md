@@ -24,9 +24,40 @@ It can listen to your voice, transcribe speech in real-time, and respond back wi
 ---
 
 ## 📦 Required NPM Packages
-
-```bash
 npm create vite@latest zena --template react
 cd zena
 npm install
 npm install react-icons
+
+
+# 📁 Project Structure
+zeno/
+├── node_modules/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   │   ├── ai.png
+│   │   ├── logo.png
+│   │   ├── speak.gif
+│   │    
+│   ├── context/
+│   │   └── UserContext.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── google.js
+│   ├── index.css
+│   └── main.jsx
+├── .env
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── vite.config.js
+
+
+🔄 Optional (but useful):
+npm install react-speech-recognition
+
