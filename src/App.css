@@ -1,0 +1,47 @@
+
+.main {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 10px;
+  position: relative;
+  gap: 10px;
+}
+
+#zena {
+  height: 60%;
+  margin-top: 0;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+span {
+  background: linear-gradient(to right, rgb(34, 221, 231), rgb(237, 4, 125));
+  font-size: 2vmax;
+  background-clip: text;
+  color: transparent;
+}
+
+button {
+  width: 180px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-size: 20px;
+  border-radius: 20px;
+  border: none;
+  background: rgb(69, 128, 212);
+  box-shadow: 2px 2px 50px rgb(69, 174, 212);
+}
+.req {
+  color: rgb(88, 38, 158);
+}
+.res {
+  color: rgb(135, 135, 204);
+}
