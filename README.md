@@ -1,5 +1,7 @@
 # 🤖 Zena – AI Virtual Assistant Web App
+<br>
 ![Zena Output Screenshot](zena.png)
+</br>
 Zena is an interactive voice-enabled virtual assistant built using **React.js**, **Vite**, and the **Web Speech API**.  
 It can listen to your voice, transcribe speech in real-time, and respond back with a smart, animated interface.
 
