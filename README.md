@@ -62,7 +62,11 @@ zeno/
 
 
 🔄 Optional (but useful):
+
 npm install react-speech-recognition
+
+#final out put
+
 ![Zena Output Screenshot](zena-output.png.png)
 
 
