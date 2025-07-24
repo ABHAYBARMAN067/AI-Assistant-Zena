@@ -1,4 +1,3 @@
-// src/context/UserContext.jsx
 import React, { createContext, useState } from 'react';
 
 export const datacontext = createContext();

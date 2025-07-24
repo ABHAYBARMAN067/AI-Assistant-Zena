@@ -21,7 +21,7 @@
 
 span {
   background: linear-gradient(to right, rgb(34, 221, 231), rgb(237, 4, 125));
-  font-size: 2vmax;
+  font-size: 1vmax;
   background-clip: text;
   color: transparent;
 }
